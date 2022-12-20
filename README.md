@@ -12,7 +12,7 @@ npx react-native init
 
 **iOS**
 
-npx react-native run ios
+npx react-native run-ios
 
 **Android**
 
