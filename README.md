@@ -17,3 +17,7 @@ npx react-native run ios
 **Android**
 
 npx react-native run-android
+
+For refernce please use below
+
+https://reactnative.dev/docs/environment-setup
